@@ -1,0 +1,47 @@
+_repo: Pastoral-Poems-by-Nicholas-Breton-Selected-Poetry-by-George-Wither-and-Pastoral-Poetry-by-Wil__22001
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Breton, Nicholas
+    alias: Breton, N. (Nicholas)
+    gutenberg_agent_id: '25026'
+    url: http://www.gutenberg.org/2009/agents/25026
+  - agent_name: Wither, George
+    aliases:
+    - Wyther, George
+    - Withers, George
+    birthdate: 1588
+    deathdate: 1667
+    gutenberg_agent_id: '25027'
+    url: http://www.gutenberg.org/2009/agents/25027
+    wikipedia: http://en.wikipedia.org/wiki/George_Wither
+  - agent_name: Browne, William
+    alias: Brown, William
+    birthdate: 1590
+    gutenberg_agent_id: '25028'
+    url: http://www.gutenberg.org/2009/agents/25028
+    wikipedia: http://en.wikipedia.org/wiki/William_Browne_%28poet%29
+  editor:
+    agent_name: Kempling, William Bailey
+    birthdate: 1869
+    gutenberg_agent_id: '25029'
+    url: http://www.gutenberg.org/2009/agents/25029
+description: ''
+gutenberg_bookshelf: Poetry
+gutenberg_issued: '2007-07-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22001'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English poetry -- Early modern, 1500-1700'
+title: Pastoral Poems by Nicholas Breton, Selected Poetry by George Wither, and Pastoral
+  Poetry by William Browne (of Tavistock)
+url: http://www.gutenberg.org/ebooks/22001
